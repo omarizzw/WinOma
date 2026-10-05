@@ -55,8 +55,6 @@ I'm **Omar Ilyasov** (**omarizzw**), founder of **WinOma Optimization Service**,
 
 Send me a message with your PC or laptop model, what is going wrong (FPS drops, stutters, latency, noise or heat) and your goals.
 
-- **Telegram:** ``
-
 Whether you need custom software built from scratch, deep code optimization or system-wide latency reduction, feel free to get in touch.
 
 ---
