@@ -6,9 +6,9 @@
 
 **PC performance experts: deep Windows tuning, low latency and stable frametimes.**
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-7B2CFF?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-scripts-5B21B6?style=for-the-badge&logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-tools-9333EA?style=for-the-badge)
+[![MAIN CHANNEL](https://img.shields.io/badge/-MAIN%20CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/win_oma)
+[![RESULTS](https://img.shields.io/badge/-RESULTS-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/winoma_results)
+[![CHAT ME](https://img.shields.io/badge/-CHAT%20ME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/omarizzww)
 
 </div>
 
@@ -55,9 +55,7 @@ I'm **Omar Ilyasov** (**omarizzw**), founder of **WinOma Optimization Service**,
 
 Send me a message with your PC or laptop model, what is going wrong (FPS drops, stutters, latency, noise or heat) and your goals.
 
-- **Telegram:** `@your_username`
-- **Discord:** `your_discord`
-- **Email:** `you@example.com`
+- **Telegram:** ``
 
 Whether you need custom software built from scratch, deep code optimization or system-wide latency reduction, feel free to get in touch.
 
